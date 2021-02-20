@@ -1,0 +1,2 @@
+# ColorGeneratorJS
+First VanillaJS Project
